@@ -9,8 +9,8 @@
 
 ## About Me
 
-- 📚 I’m currently a BS Computer Science major in Software Technology `Student` of De La Salle University.
-- 👀 I’m interested in `Artificial Intelligence`, `Machine Learning`, `Computer Vision`, and more.
+- 📚 I’m currently a MSc in Artificial Intelligence `Student` of Hong Kong University of Science and Technology.
+- 👀 I’m interested in `Web Development`, `Machine Learning`, `Computer Vision`, and more.
 - 😎 Yes, I have the same name with ✨ _Disguised Toast_ ✨.
 
 ## My Skills
